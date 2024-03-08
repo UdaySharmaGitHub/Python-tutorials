@@ -8,3 +8,4 @@
 - [***Python Variables***](./Python-tutorials/04_Variables_In_Python.md)
 ## Python Data Types & Operators
 - [***Python Data Types***](./Python-tutorials/05_Python_Data_Types.md)
+- [***Python Numbers***](./Python-tutorials/06_Python_Numbers.md)
